@@ -7,13 +7,12 @@ import { join } from 'node:path';
 // Si le fichier n'existe pas ou n'est pas du JSON valide, laissez l'erreur remonter : le menu l'affichera.
 export async function chargerJson(chemin) {
   const textjson = await readFile(chemin, "utf8");
-  const tableau = json.parse(jsonText)
+  const tableau = JSON.parse(textjson)
   return tableau;
 };
 
 // Écrit le tableau dans le fichier, au format JSON indenté de 2 espaces.
 export async function enregistrerJson(chemin, enregistrements) {
-  const text = json.stringify (enregistrements, null, 2, "utf8");
-  await writeFile(chemin, text);
-  return text;
+  const textjson = JSON.stringify(enregistrements, null, 2);
+  await writeFile(chemin, textjson, "utf8");
 };
