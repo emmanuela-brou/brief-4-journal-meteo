@@ -4,7 +4,7 @@
 
 ## Contexte
 
-✏️ *En trois à cinq phrases : qui utilise l'outil, quel problème il résout, ce qu'il ne permet pas de conclure.*
+Le journal météorologique de la ferme est utilisé par le responsable pédagogique de la ferme, il permet de saisir les données, les stocker dans un fichier JSON, de retrouver une journée en fonction de sa date de saisir ou de son identifiant et de lister une courte série de 10 jours. Il faut savoir qu'on ne peut pas parler de changement de climat car le climat se caractérise sur une période de 30 ans et il ne faut pas confondre l'humidité du sol à l'humidité de l'air, on décrit uniquement la météo passée de ses journées.
 
 ## Prérequis et lancement
 
