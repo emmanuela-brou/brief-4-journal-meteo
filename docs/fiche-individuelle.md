@@ -23,3 +23,5 @@ j'ai rencontré quelque difficultés, qui grâce à des camarades j'ai pu avance
 3. **L'entraide** (qui m'a aidé, qui j'ai aidé, sur quoi) : 
 
 j'ai été aidé par mes camarade de classe Junior DJONGON, Salia KAMAGATE ; ils m'ont aidé à comprendre le sujet et comment m'y prendre pour sa conception. IL y a eu aussi Xavier KAMBOU qui m'a plus ou moins expliquer comment faire le test de reussite des fonctionnalités.
+
+j'ai été aussi d'une aide pour les personne qui bossais sur le meme projet que moi notamment AKPLI Tiédie; Irié Bi Arthur, KOUAKOU florant... ; j'ai aussi travaillé avec KAMBOU Xavier et BENE axel dans la compréhension.
